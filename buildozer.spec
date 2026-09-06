@@ -5,7 +5,7 @@ package.domain = org.example
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
-requirements = python3,kivy,pyjnius,pypdf
+requirements = python3==3.11.6,kivy,pyjnius,pypdf
 
 orientation = portrait
 fullscreen = 0
